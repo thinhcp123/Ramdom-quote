@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ramdom-quote/static/css/main.3103ea0b.css",
+    "main.js": "/Ramdom-quote/static/js/main.9e0d23a9.js",
+    "index.html": "/Ramdom-quote/index.html",
+    "main.3103ea0b.css.map": "/Ramdom-quote/static/css/main.3103ea0b.css.map",
+    "main.9e0d23a9.js.map": "/Ramdom-quote/static/js/main.9e0d23a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3103ea0b.css",
+    "static/js/main.9e0d23a9.js"
+  ]
+}
